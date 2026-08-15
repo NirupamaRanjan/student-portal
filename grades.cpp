@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     cout<<"Welcome to grades page"<<endl;
     string subjects[] = {"Math", "Physics", "CS", "English"};
-    float  grades[]   = {3.7, 3.3, 4.0, 3.0};
+    float  grades[]   = {9.5, 8.3, 7.5, 6.0};
 
     cout << "*** My Grades ***" << endl;
     int n = 4;
@@ -18,11 +18,14 @@ int main(){
     float gpa = total / n;
     cout << "GPA : " << gpa << endl;
 
-    if (gpa >= 3.5)
+    if (gpa >= 9.5)
         cout << "Status: Excellent!" << endl;
-    else if (gpa >= 3.0)
+    else if (gpa >=8.0)
         cout << "Status: Good Standing" << endl;
     else
         cout << "Status: Needs Improvement" << endl;
+
+    if(gpa<6) cout<<"Fail!!";
+    else cout<<"Pass";
 
 }
