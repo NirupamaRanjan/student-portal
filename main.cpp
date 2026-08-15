@@ -3,19 +3,20 @@ using namespace std;
 
 int main(){
    
-    int choice;
+    int nav;
 
     cout << "****** Student Portal *****" << endl;
+    cout<<"Welcome to the student portal!!"<<endl;
     cout << "1. Login" << endl;
     cout << "2. View Dashboard" << endl;
     cout << "3. View Profile" << endl;
     cout << "4. View Grades" << endl;
     cout << "5. Settings" << endl;
     cout << "6. Exit" << endl;
-    cout << "Enter choice: ";
-    cin >> choice;
+    cout << "Enter any option from above: ";
+    cin >> nav;
 
-    cout << "You selected option " << choice << endl;
+    cout << "You selected option " << nav << endl;
 
     return 0;
 }
