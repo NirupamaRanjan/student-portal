@@ -18,35 +18,35 @@ Basic knowledge of running terminal commands
 2. Navigate into the folder
    cd student-portal
 
-3. Compile any file using g++
+3. Compile any file using 
    g++ login.cpp -o login
 
    
-## Usage
+## Execution
 
 Run each module separately:
 
-- Login Module
+- Login Module :
   g++ login.cpp -o login
   ./login
 
-- Dashboard Module
+- Dashboard Module :
   g++ dashboard.cpp -o dashboard
   ./dashboard
 
-- Grades Module
+- Grades Module :
   g++ grades.cpp -o grades
   ./grades
 
-- Profile Module
+- Profile Module :
   g++ profile.cpp -o profile
   ./profile
 
-- Settings Module
+- Settings Module : 
   g++ settings.cpp -o settings
   ./settings
 
-Login Credentials:
+Login Credentials==>
   Email    : student@uni.com
   Password : pass123
 
