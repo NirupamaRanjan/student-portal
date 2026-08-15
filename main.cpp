@@ -4,7 +4,7 @@ using namespace std;
 int main(){
    
     int nav;
-
+    cout<<"Portal v1.0"<<endl;
     cout << "****** Student Portal *****" << endl;
     cout<<"Welcome to the student portal!!"<<endl;
     cout << "1. Login" << endl;
