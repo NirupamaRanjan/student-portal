@@ -10,4 +10,6 @@ int main(){
     cout<<"Announcments:"<<endl;
     cout<<"your exams will start in 2 days"<<endl;
 
+    cout<<"Click here to edit your profile"<<endl;
+
 }
