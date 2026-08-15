@@ -15,4 +15,8 @@ int main(){
         total += grades[i];
     }
 
+    float gpa = total / n;
+    cout << "GPA : " << gpa << endl;
+
+
 }
