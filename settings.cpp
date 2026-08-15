@@ -13,8 +13,9 @@ int main(){
     bool notification=false;
     cout<<"3.Click here to turn on notifications";
     notification=!notification;
+   
+    cout<<"Exit"<<endl;
 
-    
 
 
 }
