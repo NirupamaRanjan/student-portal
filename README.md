@@ -22,5 +22,17 @@ Basic knowledge of running terminal commands
    g++ login.cpp -o login
 
    
+## Usage
 
+Run each module separately:
+
+- Login Module
+- Dashboard Module
+- Grades Module
+- Profile Module
+- Settings Module
+
+Login Credentials:
+  Email    : student@uni.com
+  Password : pass123
 
