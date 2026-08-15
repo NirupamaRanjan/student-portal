@@ -13,9 +13,13 @@ int main(){
     cout<<"Enter Password:"<<endl;
     cin>>password;
 
-    if(username=="nirupama" && password=="123")
-    cout<<"Login successful!";
+    if(username=="nirupama" && password=="123"){
+          cout<<"Login successful!";
+          cout<<"Welcome to your portal!!";
+    }
     else cout<<"Invalid credentials!";
+
+
 
 
 }
