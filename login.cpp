@@ -5,6 +5,7 @@ using namespace std;
 
 int main(){
     string username,password;
+    int count;
     cout<<"***** Login Page *****";
 
     cout<<"Enter Username:"<<endl;
@@ -12,6 +13,7 @@ int main(){
 
     cout<<"Enter Password:"<<endl;
     cin>>password;
+    count++;
 
     if(username=="nirupama" && password=="123"){
           cout<<"Login successful!";
