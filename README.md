@@ -46,3 +46,10 @@ student-portal/
     profile.cpp      → View and edit student profile
     settings.cpp     → Toggle notifications and dark mode
     README.md        → Project documentation
+
+## Author
+
+Name    : Nirupama Ranjan
+Course  : CSE
+Lab     : Git Lab Activity1
+GitHub  : https://github.com/NirupamaRanjan
