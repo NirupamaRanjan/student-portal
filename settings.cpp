@@ -8,15 +8,11 @@ int main(){
     cout<<"1.Click here to switch to dark mode"<<endl;
     dark_mode=(!dark_mode);
 
-    cout<<"2.Click here to chage profile picture"<<endl;
+    cout<<"2.Click here to chage profile picture";
 
     bool notification=false;
-    cout<<"3.Click here to turn on notifications"<<endl;
+    cout<<"3.Click here to turn on notifications";
     notification=!notification;
-
-    bool reset=false;
-    cout<<"4.Click here to reset:"<<endl;
-   reset=!reset;
    
     cout<<"Exit"<<endl;
 
