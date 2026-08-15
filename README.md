@@ -9,3 +9,16 @@ A computer with Windows, Mac or Linux
 GCC compiler installed (g++)
 A terminal or command prompt
 Basic knowledge of running terminal commands
+
+## Installation
+
+1. Clone this repository
+   git clone https://github.com/YOUR_USERNAME/student-portal.git
+
+2. Navigate into the folder
+   cd student-portal
+
+3. Compile any file using g++
+   g++ login.cpp -o login
+
+   
