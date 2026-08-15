@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
      vector<string>v(4);
-     v={"cricket","Hockey","Polo","Basketball"};
+     v={"cricket","Hockey","Polo","Basketball","Badminton","swimming"};
      
     cout<<"******* Dashboard *******"<<endl;
     cout<<"Welcome to your dashboard"<<endl;
@@ -17,5 +17,7 @@ int main(){
     for(int i=0;i<4;i++){
         cout<<v[i]<<endl;
     }
+
+    cout<<"This section displays achievments of your college"<<endl;
 
 }
