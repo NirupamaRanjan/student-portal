@@ -8,6 +8,7 @@ int main(){
     cout<<"Click here to switch to dark mode"<<endl;
     dark_mode=(~dark_mode);
 
+    cout<<"Click here to chage profile picture";
     
 
 }
