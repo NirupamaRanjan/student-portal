@@ -36,3 +36,13 @@ Login Credentials:
   Email    : student@uni.com
   Password : pass123
 
+## Folder Structure
+
+student-portal/
+    main.cpp → Main menu of the portal
+    login.cpp → Handles student login and validation
+    dashboard.cpp → Displays student info and announcements
+    grades.cpp       → Shows subject grades and GPA
+    profile.cpp      → View and edit student profile
+    settings.cpp     → Toggle notifications and dark mode
+    README.md        → Project documentation
