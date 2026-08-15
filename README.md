@@ -27,10 +27,24 @@ Basic knowledge of running terminal commands
 Run each module separately:
 
 - Login Module
+  g++ login.cpp -o login
+  ./login
+
 - Dashboard Module
+  g++ dashboard.cpp -o dashboard
+  ./dashboard
+
 - Grades Module
+  g++ grades.cpp -o grades
+  ./grades
+
 - Profile Module
+  g++ profile.cpp -o profile
+  ./profile
+
 - Settings Module
+  g++ settings.cpp -o settings
+  ./settings
 
 Login Credentials:
   Email    : student@uni.com
