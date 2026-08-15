@@ -18,5 +18,11 @@ int main(){
     float gpa = total / n;
     cout << "GPA : " << gpa << endl;
 
+    if (gpa >= 3.5)
+        cout << "Status: Excellent!" << endl;
+    else if (gpa >= 3.0)
+        cout << "Status: Good Standing" << endl;
+    else
+        cout << "Status: Needs Improvement" << endl;
 
 }
