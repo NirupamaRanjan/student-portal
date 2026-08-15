@@ -5,7 +5,7 @@ int main(){
    
     int nav;
 
-    cout << "****** Student Portal *****" << endl;
+    cout << "****** Portal-student edition *****" << endl;
     cout<<"Welcome to the student portal!!"<<endl;
     cout << "1. Login" << endl;
     cout << "2. View Dashboard" << endl;
